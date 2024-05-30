@@ -1,0 +1,255 @@
+2024-05-30 08:08:27,579 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:08:27,609 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:08:27,609 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:08:28,256 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:09:35,615 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:09:35,630 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:09:35,630 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:09:36,604 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:10:10,788 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:10:10,820 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:10:10,820 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:10:11,720 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:10:25,659 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:10:25,675 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:10:25,675 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:10:26,247 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:20:38,222 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:20:38,266 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:20:38,267 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:20:40,385 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:21:31,069 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:21:31,095 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:21:31,095 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:21:34,088 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:23:19,615 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:23:19,646 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:23:19,646 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:23:20,906 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:33:59,222 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:33:59,238 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:33:59,238 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:34:00,458 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:37:08,893 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:37:08,908 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:37:08,908 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:38:48,354 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:38:48,385 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:38:48,385 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:38:49,355 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:46:50,271 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:46:50,287 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:46:50,287 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:46:51,276 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:57:03,659 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 08:57:03,678 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:57:03,679 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 08:57:04,588 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 08:59:30,243 INFO  ApiServer.Logging [1] Run server on :8080 
+2024-05-30 08:59:30,259 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 08:59:30,259 INFO  ApiServer.Logging [1] Host: :8080 
+2024-05-30 08:59:31,338 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 09:01:06,171 INFO  ApiServer.Logging [1] Run server on :8080 
+2024-05-30 09:01:06,656 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:01:07,320 INFO  ApiServer.Logging [1] Host: :8080 
+2024-05-30 09:02:28,093 INFO  ApiServer.Logging [1] Run server on :8080 
+2024-05-30 09:02:28,131 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:02:28,131 INFO  ApiServer.Logging [1] Host: :8080 
+2024-05-30 09:02:52,053 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 09:02:52,069 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:02:52,069 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 09:04:55,314 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:04:55,337 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:04:55,337 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:04:56,488 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 83 
+2024-05-30 09:05:10,754 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:05:10,943 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:05:11,117 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:06:29,978 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:06:30,024 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:06:30,168 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:06:31,402 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 83 
+2024-05-30 09:06:40,910 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:06:41,185 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:06:41,396 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:08:59,306 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 09:08:59,337 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:08:59,337 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 09:09:31,171 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 09:09:31,384 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:09:31,773 INFO  ApiServer.Logging [1] Host: :1234 
+2024-05-30 09:10:29,399 INFO  ApiServer.Logging [1] Run server on :12345 
+2024-05-30 09:10:29,803 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:10:30,275 INFO  ApiServer.Logging [1] Host: :12345 
+2024-05-30 09:11:05,916 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:11:05,965 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:11:06,121 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:11:55,699 INFO  ApiServer.Logging [1] Run server on :12345 
+2024-05-30 09:12:27,552 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:12:28,646 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:12:32,425 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:13:32,495 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:13:32,580 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:13:32,723 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:13:46,081 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:13:46,484 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:13:46,723 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:14:58,656 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:12345 
+2024-05-30 09:14:58,679 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:14:58,679 INFO  ApiServer.Logging [1] Host: 10.234.36.40:12345 
+2024-05-30 09:16:10,554 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:16:10,569 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:16:10,569 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:28:25,405 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:28:25,421 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:28:25,421 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:28:48,448 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:28:48,613 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:28:48,756 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:30:11,175 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:30:18,994 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:30:19,244 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:48:08,450 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:48:08,481 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:48:08,481 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:48:37,550 INFO  ApiServer.Logging [1] Run server on 10.1.45.232:12345 
+2024-05-30 09:48:37,566 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:48:37,566 INFO  ApiServer.Logging [1] Host: 10.1.45.232:12345 
+2024-05-30 09:50:35,386 INFO  ApiServer.Logging [1] Run server on 10.234.36.215:1234 
+2024-05-30 09:50:35,391 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 09:50:35,391 INFO  ApiServer.Logging [1] Host: 10.234.36.215:1234 
+2024-05-30 09:50:36,275 INFO  ApiServer.Logging [1] ERROR: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+   at System.Net.HttpListener.CheckDisposed()
+   at System.Net.HttpListener.Stop()
+   at Grapevine.RestServer.Start()
+   at ApiServer.Program.Main(String[] args) in D:\B600044177\ApiServer\ApiServer\ApiServer\Program.cs:line 88 
+2024-05-30 10:13:22,143 INFO  ApiServer.Logging [1] Run server on 10.234.36.215:1234 
+2024-05-30 10:13:22,418 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:13:22,572 INFO  ApiServer.Logging [1] Host: 10.234.36.215:1234 
+2024-05-30 10:13:34,400 INFO  ApiServer.Logging [1] Run server on 10.234.36.215:1234 
+2024-05-30 10:13:34,440 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:13:34,588 INFO  ApiServer.Logging [1] Host: 10.234.36.215:1234 
+2024-05-30 10:14:46,682 INFO  ApiServer.Logging [1] Run server on 10.234.36.40:1234 
+2024-05-30 10:14:46,787 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:14:46,978 INFO  ApiServer.Logging [1] Host: 10.234.36.40:1234 
+2024-05-30 10:16:04,129 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 10:16:04,455 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:16:23,515 INFO  ApiServer.Logging [1] Run server on :1234 
+2024-05-30 10:16:35,772 INFO  ApiServer.Logging [1] Run server on 10.234.36.215:1234 
+2024-05-30 10:16:35,883 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:16:36,065 INFO  ApiServer.Logging [1] Host: 10.234.36.215:1234 
+2024-05-30 10:16:54,044 INFO  ApiServer.Logging [1] Run server on 10.234.36.215:1234 
+2024-05-30 10:16:54,059 INFO  ApiServer.Logging [1] Press CTRL+C to terminate server.
+ 
+2024-05-30 10:16:54,059 INFO  ApiServer.Logging [1] Host: 10.234.36.215:1234 

@@ -1,0 +1,503 @@
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\App.config
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.exe.config
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.exe
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.pdb
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\netstandard.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.AppContext.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.Concurrent.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.Specialized.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Console.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Data.Common.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Process.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Drawing.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.Calendars.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Compression.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Pipes.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Expressions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Parallel.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Queryable.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Http.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.NameResolution.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Ping.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Requests.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Security.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Sockets.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ObjectModel.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.Extensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.Reader.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.Writer.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Extensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Handles.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Numerics.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Claims.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Principal.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.SecureString.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Thread.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Timer.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XDocument.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapeseed.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapevine.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Buffers.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Memory.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Json.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ValueTuple.dll
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapeseed.pdb
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapevine.pdb
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Buffers.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Memory.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Json.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ValueTuple.xml
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csprojAssemblyReference.cache
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.exe.config
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.CoreCompileInputs.cache
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.CopyComplete
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.exe
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.pdb
+D:\Projects\15. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.config
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\App.config
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.config
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.exe.config
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.exe
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\ApiServer.pdb
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\netstandard.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.AppContext.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.Concurrent.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Collections.Specialized.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Console.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Data.Common.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Process.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Drawing.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.Calendars.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Compression.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.Pipes.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Expressions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Parallel.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Linq.Queryable.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Http.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.NameResolution.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Ping.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Requests.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Security.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.Sockets.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ObjectModel.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.Extensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Reflection.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.Reader.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Resources.Writer.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Extensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Handles.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Numerics.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Claims.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.Principal.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Security.SecureString.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Thread.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Timer.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XDocument.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapeseed.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapevine.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Buffers.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Memory.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Json.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ValueTuple.dll
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapeseed.pdb
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Grapevine.pdb
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\log4net.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Buffers.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Memory.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Text.Json.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\bin\Debug\System.ValueTuple.xml
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.exe.config
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.CoreCompileInputs.cache
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.CopyComplete
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.exe
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.pdb
+D:\Projects\12. NIDEC - IOT and RFID Handheld\ApiServer\ApiServer\obj\Debug\ApiServer.csprojAssemblyReference.cache
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\App.config
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\log4net.config
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\ApiServer.exe.config
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\ApiServer.exe
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\ApiServer.pdb
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\netstandard.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.AppContext.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Collections.Concurrent.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Collections.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Collections.NonGeneric.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Collections.Specialized.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ComponentModel.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Console.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Data.Common.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Debug.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Process.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tools.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Drawing.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Dynamic.Runtime.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Globalization.Calendars.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Globalization.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Globalization.Extensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.Compression.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.Pipes.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Linq.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Linq.Expressions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Linq.Parallel.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Linq.Queryable.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Http.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.NameResolution.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.NetworkInformation.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Ping.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Requests.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Security.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.Sockets.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Net.WebSockets.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ObjectModel.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Reflection.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Reflection.Extensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Reflection.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Resources.Reader.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Resources.ResourceManager.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Resources.Writer.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Extensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Handles.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Numerics.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Claims.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.Principal.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Security.SecureString.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.RegularExpressions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Overlapped.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Thread.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.ThreadPool.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Timer.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.XDocument.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.XmlDocument.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Grapeseed.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Grapevine.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\log4net.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Newtonsoft.Json.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Buffers.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Memory.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Json.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ValueTuple.dll
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Grapeseed.pdb
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Grapevine.pdb
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\log4net.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\Newtonsoft.Json.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Buffers.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Memory.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Numerics.Vectors.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Encodings.Web.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Text.Json.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\bin\Debug\System.ValueTuple.xml
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.AssemblyReference.cache
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.SuggestedBindingRedirects.cache
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.exe.config
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.CoreCompileInputs.cache
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.csproj.Up2Date
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.exe
+D:\B600044177\ApiServer\ApiServer\ApiServer\obj\Debug\ApiServer.pdb
